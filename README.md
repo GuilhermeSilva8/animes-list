@@ -1,16 +1,13 @@
-# animes_list
+# Animes List
 
-A new Flutter project.
+## Sobre
 
-## Getting Started
+Aplicativo que consome os dados de uma Planilha do Google e mostra na tela principal a imagem dos animes listados na planilha.
 
-This project is a starting point for a Flutter application.
+Ao clicar na imagem uma página com os detalhes do anime é aberta.
 
-A few resources to get you started if this is your first Flutter project:
+## Ferramentas
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Projeto criado durante a Summer Class 2022 realizada pela STI(Superintendência de Tecnologia da Informação) da UFF(Universidade Federal Fluminense).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Foi utilizada a linguagem Flutter com o pacote GetX para o desenvolvimento, com a utilização dos três pilares do pacote (Route Management, Dependency Management e State Management), além da utilização do padrão para consumo de APIs usando as camadas model, repository e providers.
